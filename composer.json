@@ -1,0 +1,20 @@
+{
+    "name": "mrxxm/scanner",
+    "description": "TEST",
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mrxxm",
+            "email": "362190221@qq.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "autoload": {
+        "psr-4": {
+            "Mrxxm\\Scanner\\": "src/"
+        }
+    }
+}
